@@ -1,0 +1,20 @@
+{
+  "name": "@sukhovalex96/ajs-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SukhovAlex96/ajs-3.1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SukhovAlex96/ajs-3.1/issues"
+  },
+  "homepage": "https://github.com/SukhovAlex96/ajs-3.1#readme"
+}
